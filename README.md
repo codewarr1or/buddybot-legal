@@ -1,4 +1,4 @@
-# buddybot-legal
+# BuddyBOT Terms of Service
 
 📜 TERMS OF SERVICE
 
@@ -19,6 +19,8 @@ By inviting BuddyBOT to your server, you agree to these terms.
 Last updated: (2/1/2026 - 2:44pm CST)
 
 ---------------------------------------------------------
+
+# BuddyBOT Privacy Policy
 
 🔐 PRIVACY POLICY
 
